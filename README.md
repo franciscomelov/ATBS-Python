@@ -30,9 +30,13 @@ ciclo while, condiciones y sys.exit() -exitExample.py
 numero secreto- gessNumber.py  
 break - continue
 piedraPapelTijera.py  
-round() abd()  
+round() abd() len()..
 ---Examen --- https://automatetheboringstuff.com/2e/chapter2/  
 -------Functions------------
+funciones
+funciones con argumentos
+helloWorld.py
+https://automatetheboringstuff.com/2e/chapter3/
 
 
 
