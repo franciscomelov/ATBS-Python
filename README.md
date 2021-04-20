@@ -1,6 +1,7 @@
 # ATBS-Python
 Automate the boring stuff - exerscices
 
+-------Python basics --------
 sumas en consola  
 tipos de datos  
 concatenar string + string  
@@ -10,6 +11,7 @@ como googlear errores
 Comentarios  
 datos booleanos  
 thrusty falsy  
+-------Flow Control--------
 condiciionales if  
 ciclo for - range()  
 range()  
@@ -24,9 +26,15 @@ condicionales e input()
 importar random()  
 ciclo for y random() - random_number.py   
 importar sys.exit()  
-ciclo while, condiciones y sys.exit() -   exitExample.py
-numero secreto  - gessNumber.py  
+ciclo while, condiciones y sys.exit() -exitExample.py  
+numero secreto- gessNumber.py  
+break - continue
 piedraPapelTijera.py  
+round() abd()  
+---Examen --- https://automatetheboringstuff.com/2e/chapter2/  
+-------Functions------------
+
+
 
 
 
