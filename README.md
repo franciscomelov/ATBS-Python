@@ -36,7 +36,19 @@ round() abd() len()..
 funciones
 funciones con argumentos
 helloWorld.py
-https://automatetheboringstuff.com/2e/chapter3/
+partes de una funcion
+return 
+op modulo
+return_some.py
+None
+posicion argumentos 
+print sep = ,  end =
+print , and +
+print_par.py
+The Call Stack
+abcdCallStack.py
+[Local and Global Scope](https://automatetheboringstuff.com/2e/chapter3/)
+Local and Global Scope
 
 
 
