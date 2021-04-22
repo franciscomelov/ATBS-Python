@@ -1,13 +1,8 @@
-from sys import exit
+b=222
+def a():
 
+    b=0
+    print(b)
 
-
-while(True):
-    response = input("¿Que quieres hacer?: ")
-    print(f'Elejiste {response}')
-    if response == "exit":
-        exit() #Termina el programa
-    else:
-        print("en bucle")
-
-print("Afuera del  bucle") #Como exit() finaliza el programa esto nunca se imprime
+a()
+print(b)

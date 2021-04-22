@@ -28,27 +28,27 @@ ciclo for y random() - random_number.py
 importar sys.exit()  
 ciclo while, condiciones y sys.exit() -exitExample.py  
 numero secreto- gessNumber.py  
-break - continue
+break - continue  
 piedraPapelTijera.py  
 round() abd() len()..
 ---Examen --- https://automatetheboringstuff.com/2e/chapter2/  
--------Functions------------
-funciones
-funciones con argumentos
-helloWorld.py
-partes de una funcion
-return 
-op modulo
-return_some.py
-None
-posicion argumentos 
-print sep = ,  end =
-print , and +
-print_par.py
-The Call Stack
-abcdCallStack.py
-[Local and Global Scope](https://automatetheboringstuff.com/2e/chapter3/)
-Local and Global Scope
+-------Functions------------  
+funciones  
+funciones con argumentos  
+helloWorld.py  
+partes de una funcion  
+return  
+op modulo  
+return_some.py  
+None  
+posicion argumentos  
+print sep = ,  end =  
+print , and +  
+print_par.py  
+The Call Stack  
+abcdCallStack.py  
+Local and Global Scope  
+
 
 
 
