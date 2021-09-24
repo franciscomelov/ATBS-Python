@@ -48,7 +48,9 @@ print_par.py
 The Call Stack  
 abcdCallStack.py  
 Local and Global Scope  
-https://automatetheboringstuff.com/2e/chapter2/
+scope.py  
+https://automatetheboringstuff.com/2e/chapter3/
+r and save it as sameNameLocalGlobal.py:
 
 
 
