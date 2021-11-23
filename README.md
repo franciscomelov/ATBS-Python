@@ -51,6 +51,8 @@ Local and Global Scope
 scope.py  
 https://automatetheboringstuff.com/2e/chapter3/
 r and save it as sameNameLocalGlobal.py:
+test
+
 
 
 
